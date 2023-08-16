@@ -1,6 +1,6 @@
 Olá, sou Alexandre Francisco, um Analista de Dados apaixonado por tecnologia e inovação!
 
-🔹 Sobre Mim 🔹
+# 🔹 Sobre Mim. 🔹
 Sou um profissional entusiasmado por explorar dados e descobrir insights que impulsionem decisões estratégicas. Minha formação acadêmica em Informática e Telecomunicações me proporcionou uma base sólida em tecnologia e ciência da computação.
 
 🔹 Área de Atuação 🔹
