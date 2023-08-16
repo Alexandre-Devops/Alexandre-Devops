@@ -19,5 +19,5 @@ Além do meu trabalho com dados e tecnologia, sou um apaixonado por animes e cul
 
 🚀 Estou sempre em busca de novos desafios e oportunidades de crescimento profissional. Se você deseja conectar-se ou discutir possíveis colaborações, sinta-se à vontade para entrar em contato comigo!
 
-📧 [Seu e-mail ou outra forma de contato]
+📧 alexandredelucasfrancisco@gmail.com
 
