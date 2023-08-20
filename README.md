@@ -1,7 +1,6 @@
-Olá, sou Alexandre Francisco, um Analista de Dados apaixonado por tecnologia e inovação!
 
 ### 🔹 Sobre Mim. 🔹
-Sou um profissional entusiasmado por explorar dados e descobrir insights que impulsionem decisões estratégicas. Minha formação acadêmica em Informática e Telecomunicações me proporcionou uma base sólida em tecnologia e ciência da computação.
+Sou um profissional entusiasmado por explorar dados e descobrir insights que impulsionem decisões estratégicas. Minha formação acadêmica em Informática e Telecomunicações me proporcionou uma base sólida em tecnologia e ciência da computação e telecomunicações.
 
 ### 🔹 Área de Atuação. 🔹
 Atualmente, trabalho como Analista de Base de Dados na Jobartis, onde me dedico a coletar, organizar e analisar dados para fornecer informações valiosas para a tomada de decisão. Além disso, sou um Especialista em Marketing Digital, com experiência em desenvolver estratégias eficazes para aumentar a visibilidade e o alcance de marcas e produtos.
