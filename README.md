@@ -4,7 +4,7 @@ Sou um profissional entusiasmado por explorar dados e descobrir insights que imp
 
 
 ### 🔹 Área de Atuação. 🔹
-Atualmente, trabalho como Analista de Base de Dados na Jobartis, onde me dedico a coletar, organizar e analisar dados para fornecer informações valiosas para a tomada de decisão. Além disso, sou um Especialista em Marketing Digital, com experiência em desenvolver estratégias eficazes para aumentar a visibilidade e o alcance de marcas e produtos.
+Atualmente, trabalho como Analista de Base de Dados & Técnico de Marketing, onde me dedico a coletar, organizar e analisar dados para fornecer informações valiosas para a tomada de decisão. Além disso, sou um Especialista em Marketing Digital, com experiência em desenvolver estratégias eficazes para aumentar a visibilidade e o alcance de marcas e produtos.
 
 ### 🔹 Competências. 🔹
 * ✔️ Análise de Dados e Inteligência de Negócios
