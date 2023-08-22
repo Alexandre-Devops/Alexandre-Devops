@@ -2,6 +2,10 @@
 ### 🔹 Sobre Mim. 🔹
 Sou um profissional entusiasmado por explorar dados e descobrir insights que impulsionem decisões estratégicas. Minha formação acadêmica em Informática e Telecomunicações me proporcionou uma base sólida em tecnologia e ciência da computação e telecomunicações.
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ### 🔹 Área de Atuação. 🔹
 Atualmente, trabalho como Analista de Base de Dados na Jobartis, onde me dedico a coletar, organizar e analisar dados para fornecer informações valiosas para a tomada de decisão. Além disso, sou um Especialista em Marketing Digital, com experiência em desenvolver estratégias eficazes para aumentar a visibilidade e o alcance de marcas e produtos.
 
